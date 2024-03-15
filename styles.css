@@ -1,0 +1,25 @@
+body {
+  background-color: lightgray;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: rebeccapurple;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+div:hover {
+  background-color: aquamarine !important;
+}
+
+#square {
+  background-color: cornflowerblue;
+}
